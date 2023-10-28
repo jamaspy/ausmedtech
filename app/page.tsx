@@ -6,7 +6,7 @@ import Offering from "@/components/sections/Offering";
 import Footer from "@/components/sections/Footer";
 export default function Home() {
   return (
-    <main className="w-full">
+    <main className="flex flex-col w-full">
       <Hero />
       <About />
       <Offering />
