@@ -50,7 +50,7 @@ const data = [
 ];
 const Benefits = () => {
   return (
-    <div className="p-8">
+    <div className="w-full p-8">
       <p className="text-xl font-semibold mb-4">Benefits of Membership</p>
       <p className="text-lg">
         Joining the Australasian Med Tech Association (AMTA) grants you a

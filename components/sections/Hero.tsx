@@ -3,7 +3,7 @@ import Image from "next/image";
 const Hero = () => {
   return (
     <main
-      className="items-center justify-between min-h-screen bg-gradient-to-r from-mint to-navy p-8 flex flex-row"
+      className="w-full items-center justify-between min-h-screen bg-gradient-to-r from-mint to-navy p-8 flex flex-row"
       style={{ clipPath: "polygon(0 0, 100% 0%, 100% 100%, 0% 92%)" }}
     >
       <div className="flex-1">

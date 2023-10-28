@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 const About = () => {
   return (
-    <div className="flex flex-col md:flex-row p-8">
+    <div className="w-full flex flex-col md:flex-row p-8">
       <div className="flex-1 flex flex-col justify-center">
         <p className="text-xl font-semibold mb-2">About AMTA</p>
 

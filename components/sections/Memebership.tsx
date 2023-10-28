@@ -3,7 +3,7 @@ import React from "react";
 const Memebership = () => {
   return (
     <div
-      className="flex flex-col gap-4 md:flex-row justify-around px-8 py-24 bg-gradient-to-r from-mint to-navy"
+      className="w-full flex flex-col gap-4 md:flex-row justify-around px-8 py-24 bg-gradient-to-r from-mint to-navy"
       style={{ clipPath: "polygon(0 0, 100% 8%, 100% 100%, 0% 92%)" }}
     >
       <div className="rounded-xl shadow bg-white p-4 text-center w-full max-w-md">

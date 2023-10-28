@@ -31,7 +31,7 @@ const data = [
 const Offering = () => {
   return (
     <div
-      className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 px-8 py-36 md:py-24 bg-gradient-to-r from-mint to-navy"
+      className="w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 px-8 py-36 md:py-24 bg-gradient-to-r from-mint to-navy"
       style={{ clipPath: "polygon(0 0, 100% 8%, 100% 100%, 0% 92%)" }}
     >
       {data.map((item) => (
