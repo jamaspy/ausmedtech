@@ -14,10 +14,10 @@ const Hero = () => {
           alt="logo"
           className="opacity-60 m-auto mb-12 flex md:hidden"
         />
-        <p className="text-6xl font-semibold text-white text-center md:text-left">
+        <p className="text-4xl lg:text-6xl font-semibold text-white text-center md:text-left">
           Australasian <br /> MedTech Alliance
         </p>
-        <p className="text-xl text-white mt-4 text-center md:text-left">
+        <p className="text-lg md:text-xl text-white mt-4 text-center md:text-left">
           AMTA is Australiasian MedTech Alliance focused on the development of
           the MedTech industry in Australia and New Zealand.
         </p>
