@@ -74,14 +74,14 @@ const Benefits = () => {
             ))}
           </div>
         </div>
-        <div className="flex-1 lg:flex items-center justify-center p-4 hidden">
-          <Image
+        <div className="flex-1 lg:flex items-center justify-center p-4 hidden bg-[url('../public/office.jpg')] bg-cover bg-center ml-2 rounded-lg">
+          {/* <Image
             src="/group.jpg"
             alt="group working at whiteboard"
             width={800}
             height={800}
             className="rounded-lg"
-          />
+          /> */}
         </div>
       </div>
       <p className="mt-4 text-lg">
