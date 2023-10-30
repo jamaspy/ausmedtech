@@ -16,15 +16,16 @@ export const metadata: Metadata = {
     siteName: "AMTA",
     images: [
       {
-        url: "https://nextjs.org/caduceus.png",
+        url: "https://ausmedtech.vercel.app/caduceus.png",
         width: 800,
         height: 600,
+        alt: "Caduceus as a symbol of medicine",
       },
       {
-        url: "https://nextjs.org/caduceus.png",
+        url: "https://ausmedtech.vercel.app/caduceus.png",
         width: 1800,
         height: 1600,
-        alt: "My custom alt",
+        alt: "Caduceus as a symbol of medicine",
       },
     ],
     locale: "en_AU",
