@@ -16,12 +16,12 @@ export const metadata: Metadata = {
     siteName: "AMTA",
     images: [
       {
-        url: "https://nextjs.org/logo.svg",
+        url: "https://nextjs.org/caduceus.png",
         width: 800,
         height: 600,
       },
       {
-        url: "https://nextjs.org/doc.jpg",
+        url: "https://nextjs.org/caduceus.png",
         width: 1800,
         height: 1600,
         alt: "My custom alt",

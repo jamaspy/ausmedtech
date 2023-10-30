@@ -8,11 +8,11 @@ const Hero = () => {
     >
       <div className="flex-1">
         <Image
-          src={"/logo.svg"}
+          src={"/caduceus_light.png"}
           width={200}
           height={200}
-          alt="logo"
-          className="opacity-60 m-auto mb-12 flex md:hidden"
+          alt="Caduceus as a symbol of medicine"
+          className="m-auto mb-12 flex md:hidden"
         />
         <p className="text-4xl lg:text-6xl font-semibold text-white text-center md:text-left">
           Australasian <br /> MedTech Alliance
@@ -24,11 +24,11 @@ const Hero = () => {
       </div>
       <div className="flex-1 hidden md:flex">
         <Image
-          src={"/logo.svg"}
+          src={"/caduceus_light.png"}
           width={700}
           height={700}
-          alt="logo"
-          className="opacity-60 ml-auto"
+          alt="Caduceus as a symbol of medicine"
+          className="ml-auto"
         />
       </div>
     </main>
