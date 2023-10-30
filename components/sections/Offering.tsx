@@ -6,25 +6,25 @@ const data = [
     title: "Community",
     description:
       "Join a network of forward-thinking individuals and organizations dedicated to making significant strides in medical technology. Engage in meaningful dialogues, share insights, and build lasting partnerships.",
-    image: "/office.jpg",
+    image: "/community.jpg",
   },
   {
     title: "Support",
     description:
       "Navigate the regulatory, policy, and market challenges with a supportive community by your side. Leverage collective knowledge and resources to overcome hurdles and accelerate your ventures.",
-    image: "/office.jpg",
+    image: "/support.jpg",
   },
   {
     title: "Specialized Industry Knowledge",
     description:
       " Stay updated with the latest industry trends, regulatory changes, and technological advancements through our curated resources, workshops, and expert-led sessions.",
-    image: "/office.jpg",
+    image: "/knowledge.jpg",
   },
   {
     title: "Networking Events",
     description:
       "Our events are a cornerstone of building strong industry connections. Attend and engage in our networking events to interact with the crème de la crème of the medtech sector, fostering both personal and professional growth",
-    image: "/office.jpg",
+    image: "/networking.jpg",
   },
 ];
 
